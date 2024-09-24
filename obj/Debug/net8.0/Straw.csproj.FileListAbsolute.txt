@@ -12,3 +12,4 @@
 /Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.pdb
 /Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.genruntimeconfig.cache
 /Users/wessel/vscode/Straw/obj/Debug/net8.0/ref/Straw.dll
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.sourcelink.json
