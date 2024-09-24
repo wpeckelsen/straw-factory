@@ -1,0 +1,14 @@
+/Users/wessel/vscode/Straw/bin/Debug/net8.0/Straw
+/Users/wessel/vscode/Straw/bin/Debug/net8.0/Straw.deps.json
+/Users/wessel/vscode/Straw/bin/Debug/net8.0/Straw.runtimeconfig.json
+/Users/wessel/vscode/Straw/bin/Debug/net8.0/Straw.dll
+/Users/wessel/vscode/Straw/bin/Debug/net8.0/Straw.pdb
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.AssemblyInfoInputs.cache
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.AssemblyInfo.cs
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.csproj.CoreCompileInputs.cache
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.dll
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/refint/Straw.dll
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.pdb
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/Straw.genruntimeconfig.cache
+/Users/wessel/vscode/Straw/obj/Debug/net8.0/ref/Straw.dll
