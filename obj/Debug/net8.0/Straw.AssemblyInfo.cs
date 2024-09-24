@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Straw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e380a076b852368b451736ca6d8e26014278ac91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa0130d4a21e207cfdab1fef16e3b77e3099c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Straw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Straw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
